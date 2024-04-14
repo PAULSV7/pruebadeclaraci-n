@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+}
+.contenedor {
+    background-image:url("IMAGEN/MAYU\ 3.jpg");
+    width: 1900px;
+    height: 1200px;
+    text-align: center;
+}
+
+p{
+    font-size: xx-large;
+    padding: 15%;
+}
+
+button {
+    font-size: xx-large;
+    padding: 0.75em;
+}
+
+#yesBtn{
+    transform: translate(-100%,0);
+}
+#noBtn{
+    position: absolute;
+}
